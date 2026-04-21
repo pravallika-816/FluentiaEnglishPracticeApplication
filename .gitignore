@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-recordings/*.wav
-.env
-.vscode/
